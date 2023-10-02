@@ -1,3 +1,3 @@
 # TensorFlow
 ## Report on TensorFlow
-![Tensorflow_logo svg](https://github.com/ShahadAliH/TensorFlow/assets/145300172/90b10aff-ad5c-477e-8358-db01637dad1f)
+![maxresdefault](https://github.com/ShahadAliH/TensorFlow/assets/145300172/b27dceb5-8f32-46c6-82ee-5955d94f8269)
